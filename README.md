@@ -5,9 +5,12 @@ The goal of this mod is to enjoy racing Afterbirth again without heavily modding
 
 Character: Isaac
 Starting Items: More Options and D6
-Item Pool Changes: Stopwatch is no longer special
 
 ## VERSIONS
+
+v1.1
+
+* Vanilla Afterbirth changed the Stopwatch to no longer be special
 
 v1.0
 
